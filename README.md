@@ -25,6 +25,6 @@ Here are some of the key findings from the data:
 
 ## 🛠️ **Tools & Technologies Used**
 - 📌 Python (Pandas, sqlite3) for data cleaning, transformation and analysis.
-- 📌 Power BI for data visualization
+- 📌 Power BI for data visualization and reporting
 
 
