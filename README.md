@@ -23,20 +23,26 @@ Here are some of the key findings from the data:
 - 💰 Incentivize Digital Payments → Offer cashback for UPI/E-wallet users to reduce COD-related churn.
 - 🔄 Subscription & Rewards Program → Encouraging repeat purchases via gamification & exclusive perks.
 
-## 📌 Final Takeaways based on Power BI Analysis
+## 📌 **Final Takeaways based on Power BI Analysis**
 - ✅ Biggest Risk: New customers (<6 months) & Mobile category buyers churn the most.
 - ✅ Biggest Revenue Losses: Urban & high-spending single customers contribute the most churn-related loss.
 - ✅ Biggest Retention Opportunity: Fashion, Mobile, & Debit Card users have the highest potential for recovery.
 
-## 🎯 Final Strategy 
+## 🎯**Final Strategy**
 - Prioritize retention for new customers, offer loyalty incentives to mobile & high-spending users, and optimize warehouse logistics for better retention.
+
+**1. Churn Analysis**
   ![Churn-Analysis](https://github.com/user-attachments/assets/137a1f8d-9307-470b-a212-b4bde5a873cd)
+
+**2. Finance impact due to Churn**
   ![Finance-Impact](https://github.com/user-attachments/assets/ca9bfe65-9a9a-4f77-be64-7e820df9c901)
+
+**3. Revenue Opportunities**
   ![Revenue-Opportunies](https://github.com/user-attachments/assets/83097407-934f-4e79-9d8f-dfb33eb2f39e)
 
 
 ## 🛠️ **Tools & Technologies Used**
-- 📌 Python (Pandas, sqlite3) for data cleaning, transformation and analysis.
-- 📌 Power BI for data visualization and reporting
+- 📌 Python (Pandas, sqlite3) for data preprocessing, transformation and analysis.
+- 📌 Power BI (DAX, Power Query) for data visualization and reporting
 
 
