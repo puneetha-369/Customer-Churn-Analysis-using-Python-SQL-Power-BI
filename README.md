@@ -31,13 +31,7 @@ Here are some of the key findings from the data:
 ## 🎯**Final Strategy**
 - Prioritize retention for new customers, offer loyalty incentives to mobile & high-spending users, and optimize warehouse logistics for better retention.
 
-**1. Churn Analysis**
-  ![Churn-Analysis](https://github.com/user-attachments/assets/137a1f8d-9307-470b-a212-b4bde5a873cd)
-
-**2. Finance impact due to Churn**
-  ![Finance-Impact](https://github.com/user-attachments/assets/ca9bfe65-9a9a-4f77-be64-7e820df9c901)
-
-**3. Revenue Opportunities**
+**Revenue Opportunities**
   ![Revenue-Opportunies](https://github.com/user-attachments/assets/83097407-934f-4e79-9d8f-dfb33eb2f39e)
 
 
