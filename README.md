@@ -16,4 +16,15 @@ Here are some of the key findings from the data:
 - Mobile Category Purchasers Churn the Most (27.4%) – Due to price sensitivity and competition.
 - Customers with Complaints Have 3x Higher Churn (31.6%) – Faster issue resolution is crucial.
 
+## 📈 **Results & Actionable Strategies**
+- 📉 Target High-Churn Segments → Special discounts & loyalty programs for singles & COD users.
+- 🚀 Optimize Delivery Logistics → Reduce churn in long-distance customers via better fulfillment centers.
+- 🎯 Strengthen Customer Support → Faster complaint resolution reduces churn by 50%.
+- 💰 Incentivize Digital Payments → Offer cashback for UPI/E-wallet users to reduce COD-related churn.
+- 🔄 Subscription & Rewards Program → Encouraging repeat purchases via gamification & exclusive perks.
+
+## 🛠️ **Tools & Technologies Used**
+- 📌 Python (Pandas, sqlite3) for data cleaning, transformation and analysis.
+- 📌 Power BI for data visualization
+
 
