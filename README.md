@@ -1,4 +1,4 @@
-# **Customer-Churn-Analysis-using-SQL-Power-BI**
+# **Customer-Churn-Analysis-using-Python-SQL-Power-BI**
 
 ## 🚀**Overview**
 This project analyzes customer churn in an e-commerce business to identify key churn drivers and provide actionable insights to improve customer retention.
