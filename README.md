@@ -10,10 +10,10 @@ This analysis explores customer behavior, demographics, payment methods, and pur
 
 ## 🔍 **Key Insights**
 Here are some of the key findings from the data:
--✔️ Higher Churn in Single Customers (26.7%) – Likely due to impulsive buying & low brand attachment.
--✔️ Farther Warehouse Distance Increases Churn (20.9%) – Long delivery times reduce customer satisfaction.
--✔️ Cash on Delivery (COD) Customers Churn More (24.9%) – Prepaid payment modes have better retention.
--✔️ Mobile Category Purchasers Churn the Most (27.4%) – Due to price sensitivity and competition.
--✔️ Customers with Complaints Have 3x Higher Churn (31.6%) – Faster issue resolution is crucial.
+- Higher Churn in Single Customers (26.7%) – Likely due to impulsive buying & low brand attachment.
+- Farther Warehouse Distance Increases Churn (20.9%) – Long delivery times reduce customer satisfaction.
+- Cash on Delivery (COD) Customers Churn More (24.9%) – Prepaid payment modes have better retention.
+- Mobile Category Purchasers Churn the Most (27.4%) – Due to price sensitivity and competition.
+- Customers with Complaints Have 3x Higher Churn (31.6%) – Faster issue resolution is crucial.
 
 
