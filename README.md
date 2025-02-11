@@ -36,7 +36,6 @@ Here are some of the key findings from the data:
 
 
 ## 🛠️ **Tools & Technologies Used**
-- 📌 Python (Pandas, sqlite3) for data preprocessing, transformation and analysis.
-- 📌 Power BI (DAX, Power Query) for data visualization and reporting
-
+- Python (Pandas, sqlite3) for data preprocessing, transformation and analysis.
+- Power BI (DAX, Power Query) for data visualization and reporting
 
