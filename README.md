@@ -17,16 +17,16 @@ Here are some of the key findings from the data:
 - Customers with Complaints Have 3x Higher Churn (31.6%) – Faster issue resolution is crucial.
 
 ## 📈 **Results & Actionable Strategies**
-- 📉 Target High-Churn Segments → Special discounts & loyalty programs for singles & COD users.
-- 🚀 Optimize Delivery Logistics → Reduce churn in long-distance customers via better fulfillment centers.
-- 🎯 Strengthen Customer Support → Faster complaint resolution reduces churn by 50%.
-- 💰 Incentivize Digital Payments → Offer cashback for UPI/E-wallet users to reduce COD-related churn.
-- 🔄 Subscription & Rewards Program → Encouraging repeat purchases via gamification & exclusive perks.
+- Target High-Churn Segments → Special discounts & loyalty programs for singles & COD users.
+- Optimize Delivery Logistics → Reduce churn in long-distance customers via better fulfillment centers.
+- Strengthen Customer Support → Faster complaint resolution reduces churn by 50%.
+- Incentivize Digital Payments → Offer cashback for UPI/E-wallet users to reduce COD-related churn.
+- Subscription & Rewards Program → Encouraging repeat purchases via gamification & exclusive perks.
 
 ## 📌 **Final Takeaways based on Power BI Analysis**
-- ✅ Biggest Risk: New customers (<6 months) & Mobile category buyers churn the most.
-- ✅ Biggest Revenue Losses: Urban & high-spending single customers contribute the most churn-related loss.
-- ✅ Biggest Retention Opportunity: Fashion, Mobile, & Debit Card users have the highest potential for recovery.
+- Biggest Risk: New customers (<6 months) & Mobile category buyers churn the most.
+- Biggest Revenue Losses: Urban & high-spending single customers contribute the most churn-related loss.
+- Biggest Retention Opportunity: Fashion, Mobile, & Debit Card users have the highest potential for recovery.
 
 ## 🎯**Final Strategy**
 - Prioritize retention for new customers, offer loyalty incentives to mobile & high-spending users, and optimize warehouse logistics for better retention.
